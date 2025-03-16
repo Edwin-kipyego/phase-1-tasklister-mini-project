@@ -35,3 +35,21 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+button {
+margin-left: 80px;
+cursor: pointer;
+}
+.high-priority{
+  color: red !important
+  font-weight: bold;
+}
+.medium-priority{
+  color: yellow !important
+
+}
+.low-priority{
+  color: green !important
+}
+li {
+  color: inherit;
+}
