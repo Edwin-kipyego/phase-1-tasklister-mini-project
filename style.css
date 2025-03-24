@@ -44,7 +44,7 @@ cursor: pointer;
   font-weight: bold;
 }
 .medium-priority{
-  color: yellow !important
+  color: rgb(68, 0, 255) !important
 
 }
 .low-priority{
